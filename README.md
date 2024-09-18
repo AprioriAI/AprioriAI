@@ -4,7 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer studying AI.
 --------------------------
 
-I study programming in its different directions (from simple calculators on JS to complex systems). I am interested in culture of different countries and peoples. I like reading, basketball and exotic animals.
+I study programming in its different directions (from simple calculators on JS to complex systems). 
+I'm React-developer, but now i learning AI development on Python. 
+I am interested in culture of different countries and peoples.
+I like reading, basketball and exotic animals.
 
 * ✉️  You can contact me at [t.me/AprioriFx](mailto:t.me/AprioriFx)
 * 🧠  I'm learning Python and AI development at The Founder School
